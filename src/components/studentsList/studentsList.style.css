@@ -1,0 +1,21 @@
+.container-app {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.students-box {
+    width: 700px;
+    height: 900px;
+    background-color: #090f56;
+}
+
+li{
+    font-size: 2.5rem;
+    color: rgb(201, 28, 28);
+}
+
+li img {
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+}
