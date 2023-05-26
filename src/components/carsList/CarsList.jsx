@@ -1,14 +1,14 @@
 
-import CarsCard from "../card/CarsCard";
+import Card from "../card/Card";
 import { cars } from "./carsData";
 
 const CarsList = () => {
 
-    const showCarsList = cars.map((el, index) => <CarsCard carsCardData={el} key={index} />);
+    const showCarsList = cars.map((el, index) => <Card cardData={el} key={index} />);
 
     return (
-      <div className="container">
-        <div className="cars-box">{showCarsList}</div>
+      <div className="container-app">
+        <div className="students-box">{showCarsList}</div>
       </div>
     );
 }
