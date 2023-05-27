@@ -1,6 +1,6 @@
 import Card from "../card/Card";
 import { students } from "./studentsData";
-import "./studentsList.style.css";
+import "../card/card.style.css";
 
 const StudentsList = () => {
     const showStudents = students.map((el, index) => <Card cardData={el} key={index} /> )

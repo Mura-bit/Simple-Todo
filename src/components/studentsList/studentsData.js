@@ -1,42 +1,42 @@
 export const students = [
   {
     name: "Tom",
-    hobby: "soccer",
+    description: "soccer",
     picture: "https://source.unsplash.com/random/?portraits&1",
   },
   {
     name: "Elnura",
-    hobby: "soccer",
+    description: "soccer",
     picture: "https://source.unsplash.com/random/?portraits&2",
   },
   {
     name: "Aidina",
-    hobby: "bootcamps",
+    description: "bootcamps",
     picture: "https://source.unsplash.com/random?portraits&3",
   },
   {
     name: "Shahzod",
-    hobby: "travel",
+    description: "travel",
     picture: "https://source.unsplash.com/random?portraits&4",
   },
   {
     name: "Murat",
-    hobby: "chess",
+    description: "chess",
     picture: "https://source.unsplash.com/random/?portraits&5",
   },
   {
     name: "Esma",
-    hobby: "yoga",
+    description: "yoga",
     picture: "https://source.unsplash.com/random?portraits&6",
   },
   {
     name: "Alina",
-    hobby: "bicycle",
+    description: "bicycle",
     picture: "https://source.unsplash.com/random?portraits&7",
   },
   {
     name: "Tink",
-    hobby: "soccer",
+    description: "soccer",
     picture: "https://source.unsplash.com/random/?portraits&8",
   },
 ];
