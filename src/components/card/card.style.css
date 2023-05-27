@@ -57,9 +57,18 @@ p {
 }
 
 button {
-    width: 32%;
+    width: 34%;
     height: 6%;
     border-radius: 1rem;
     border: 1px solid grey;
     margin-left: 34%;
+    color: rgb(30, 192, 97);
+    font-size: 2rem;
+    font-weight: bold;
+    transition: transform 0.3s ease;
+}
+
+button:hover {
+    transform: scale(0.8);
+    color:rgb(9, 31, 46)
 }
