@@ -27,9 +27,9 @@
 
 img {
     width: 88%;
-    height: 460px;
+    height: 440px;
     border-radius: 10%;
-    margin-left: 10px;
+    margin-left: 5px;
     margin-top: 25px;
     margin-bottom: 20px;
     border: 1px solid grey;
@@ -66,6 +66,7 @@ button {
     font-size: 2rem;
     font-weight: bold;
     transition: transform 0.3s ease;
+    margin-bottom: 10px;
 }
 
 button:hover {
